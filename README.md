@@ -3,5 +3,7 @@ Repositório das tarefas e anotações do curso Full Cycle.
 01 - Docker
 
 02 - Comunicação Entre Sistemas:
-02.01 - gRPC (g Remote Procedure Call):
+
+02.01 - gRPC (g Remote Procedure Call) and Protocol Buffers:
+
 Request, Response, Streaming e Bidirecional Streaming.
